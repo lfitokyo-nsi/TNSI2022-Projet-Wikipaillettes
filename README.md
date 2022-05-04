@@ -1,3 +1,3 @@
 **Trophées NSI 2022**
 
-# WIKIPAILLETTES
+# Projet WIKIPAILLETTES
