@@ -1,0 +1,218 @@
+@font-face {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WiHGF.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+html, body {
+    font-family: Righteous !important;
+    background-color: #202122 !important;
+    background-image: none !important;
+}
+
+.mw-page-container {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+a {
+    color: #bb86fc !important;
+}
+
+h2, h3, h4, h5, h6 {
+    color: white !important;
+}
+
+.mw-editsection, .mw-editsection-like {
+    font-family: Righteous !important;
+}
+
+.mw-sidebar {
+background-image: linear-gradient(to bottom,transparent 0%,transparent 10%,transparent 90%,transparent 100%) !important;
+}
+
+.vector-menu-portal .vector-menu-heading {
+    color: white !important;
+}
+
+.mw-body h1, .mw-body-content h1, .mw-body-content h2 {
+    font-family: Righteous !important;
+}
+
+i {
+    font-style: normal !important;
+}
+
+.homonymie {
+    background-color: transparent !important;
+    font-style: normal !important;
+}
+
+.toc, .toccolours {
+    border: 1px solid white !important;
+    background-color: transparent !important;
+}
+
+.tocnumber {
+    color: white !important;
+}
+.toctogglelabel {
+    color: white !important;
+}
+
+div.infobox_v3 {
+    background: transparent !important;
+    border: 1px solid white !important;
+}
+
+.vector-menu-tabs .selected {
+    background: transparent !important;
+}
+
+.vector-menu-tabs li {
+    background-image: linear-gradient(to top,transparent 0,transparent 1px,transparent 100%) !important;
+}
+
+hr {
+    background-color: white !important;
+}
+
+.mw-message-box, .messagebox {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.mw-message-box, .messagebox, .errorbox, .warningbox, .successbox {
+    color: white !important;
+}
+
+caption {
+    color: white !important;
+    text-align: center;
+    background-color: transparent !important;
+}
+
+.bandeau-niveau-modere {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+.infobox_v2 {
+    background: transparent !important;
+    color: white !important;
+    border: 1px solid white !important;
+    border-spacing: 5px;
+}
+
+.bandeau-niveau-detail, .bandeau-section.bandeau-niveau-information {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+div.thumbinner {
+    border: 1px solid white !important;
+    background-color: transparent !important;
+}
+
+.mw-body h1, .mw-body-content h1 {
+    font-size: 6em !important;
+}
+
+h1 {
+    color: white !important;
+}
+
+.wikitable {
+    background-color: transparent !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+.boite-grise {
+    border-color: white !important;
+    background-color: transparent !important;
+}
+
+div.navbox-container {
+    border: 1px solid white !important;
+}
+
+table.navbox {
+    background: transparent !important;
+}
+
+th.navbox-title {
+    background: transparent !important;
+}
+
+th.navbox-group {
+    background: transparent !important;
+}
+
+td.navbox-even {
+    background: transparent !important;
+}
+
+#bandeau-portail {
+    border: solid white 1px !important;
+    background-color: transparent !important;
+}
+
+.bandeau-niveau-neutre {
+    border-color: white !important;
+    background: transparent !important;
+}
+
+.catlinks {
+    border: 1px solid white !important;
+    background-color: transparent !important;
+}
+
+.bandeau-niveau-ebauche, .bandeau-niveau-information {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+.uls-lcd {
+    background-color: black !important;
+}
+
+#uls-settings-block {
+    background-color: black !important;
+}
+
+#uls-settings-block > button {
+    color: white !important;
+}
+
+.uls-no-found-more {
+    color: white !important;
+}
+.uls-menu .uls-no-results-view .uls-no-found-more {
+    background-color: transparent !important;
+}
+
+tr {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+th {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+div {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet {
+    color: white !important;
+}
+
+.skin-vector:not(.skin-vector-legacy) .wb-langlinks-link a {
+    color: #bb86fc !important;
+}

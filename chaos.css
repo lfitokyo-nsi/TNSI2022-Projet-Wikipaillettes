@@ -1,0 +1,220 @@
+@font-face {
+  font-family: 'Black Ops One';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/blackopsone/v19/qWcsB6-ypo7xBdr6Xshe96H3aDvbtw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+html, body {
+    font-family: Black Ops One !important;
+    background-image: url(https://f4.bcbits.com/img/a3179749365_10.jpg) !important;
+    background-color: black !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+}
+
+.mw-page-container {
+    background-color: transparent !important;
+    color: red !important;
+}
+
+a {
+    color: red !important;
+}
+
+h2, h3, h4, h5, h6 {
+    color: red !important;
+}
+
+.mw-editsection, .mw-editsection-like {
+    font-family: Black Ops One !important;
+}
+
+.mw-sidebar {
+background-image: linear-gradient(to bottom,transparent 0%,transparent 10%,transparent 90%,transparent 100%) !important;
+}
+
+.vector-menu-portal .vector-menu-heading {
+    color: red !important;
+}
+
+.mw-body h1, .mw-body-content h1, .mw-body-content h2 {
+    font-family: Black Ops One !important;
+}
+
+i {
+    font-style: normal !important;
+}
+
+.homonymie {
+    background-color: transparent !important;
+    font-style: normal !important;
+}
+
+.toc, .toccolours {
+    border: 11px solid red !important;
+    background-color: transparent !important;
+}
+
+.tocnumber {
+    color: red !important;
+}
+.toctogglelabel {
+    color: red !important;
+}
+
+div.infobox_v3 {
+    background: transparent !important;
+    border: 10px solid green !important;
+}
+
+.vector-menu-tabs .selected {
+    background: transparent !important;
+}
+
+.vector-menu-tabs li {
+    background-image: linear-gradient(to top,transparent 0,transparent 1px,transparent 100%) !important;
+}
+
+hr {
+    background-color: green !important;
+}
+
+.mw-message-box, .messagebox {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.mw-message-box, .messagebox, .errorbox, .warningbox, .successbox {
+    color: red !important;
+}
+
+caption {
+    color: red !important;
+    text-align: center;
+    background-color: transparent !important;
+}
+
+.bandeau-niveau-modere {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+.infobox_v2 {
+    background: transparent !important;
+    color: red !important;
+    border: 10px solid green !important;
+    border-spacing: 5px;
+}
+
+.bandeau-niveau-detail, .bandeau-section.bandeau-niveau-information {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+div.thumbinner {
+    border: 3px solid green !important;
+    background-color: transparent !important;
+}
+
+.mw-body h1, .mw-body-content h1 {
+    font-size: 9em !important;
+}
+
+h1 {
+    color: red !important;
+}
+
+.wikitable {
+    background-color: transparent !important;
+    color: red !important;
+    border: 9px solid green !important;
+}
+
+.boite-grise {
+    border-color: green !important;
+    background-color: transparent !important;
+}
+
+div.navbox-container {
+    border: 10px solid cyan !important;
+}
+
+table.navbox {
+    background: transparent !important;
+}
+
+th.navbox-title {
+    background: transparent !important;
+}
+
+th.navbox-group {
+    background: transparent !important;
+}
+
+td.navbox-even {
+    background: transparent !important;
+}
+
+#bandeau-portail {
+    border: solid green 13px !important;
+    background-color: transparent !important;
+}
+
+.bandeau-niveau-neutre {
+    border-color: yellow !important;
+    background: transparent !important;
+}
+
+.catlinks {
+    border: 12px solid yellow !important;
+    background-color: transparent !important;
+}
+
+.bandeau-niveau-ebauche, .bandeau-niveau-information {
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+.uls-lcd {
+    background-color: pink !important;
+}
+
+#uls-settings-block {
+    background-color: pink !important;
+}
+
+#uls-settings-block > button {
+    color: green !important;
+}
+
+.uls-no-found-more {
+    color: red !important;
+}
+.uls-menu .uls-no-results-view .uls-no-found-more {
+    background-color: transparent !important;
+}
+
+tr {
+    background-color: transparent !important;
+    color: red !important;
+}
+
+th {
+    background-color: transparent !important;
+    color: red !important;
+}
+
+div {
+    background-color: transparent !important;
+    color: red !important;
+}
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet {
+    color: red !important;
+}
+.skin-vector:not(.skin-vector-legacy) .wb-langlinks-link a {
+    color: cyan !important;
+}
