@@ -1,0 +1,79 @@
+.boite {
+  width: 200px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.button {
+  margin: 10px;
+  padding: 10px;
+  width: 150px;
+  height: 40px;
+  color: white;
+  border-radius: 10px;
+  font-size: 18px;
+  text-align: center;
+  transition: box-shadow .3s;
+}
+
+.button:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,1);
+}
+
+.simple {
+  font-family: Fredoka, Helvetica;
+  background-color: white;
+  color: black;
+  border: 3px solid black;
+  padding-top: 4px;
+}
+
+.night {
+  font-family: Righteous;
+  background-color: black;
+  border-color: black;
+  padding-top: 6px;
+}
+
+.insatisfaisant {
+  font-family: Bebas Neue;
+  background-color: #e090df;
+  color: #614;
+  border: 2px dotted #614;
+  padding-top: 8px
+}
+
+.arcade {
+  font-family: VT323;
+  padding: 7px;
+  color: #0df609;
+  background-color: #0f2310;
+  border: 2px dashed;
+}
+
+.chaos {
+  font-family: Shadows Into Light;
+  color: black;
+  background-color: black;
+  background-image: repeating-linear-gradient(45deg, black 0px, black 10px, red 10px, red 25px);
+  padding-top: 3px;
+  padding-bottom: 13px;
+  border: 2px solid black;
+  text-shadow: 1px 1px 0px red, -1px 1px 0px red, 1px -1px 0px red, -1px -1px 0px red;
+  font-size: larger;
+}
+
+.world {
+  font-family: Playfair Display;
+  font-weight: bold;
+  text-align: left;
+  background: linear-gradient(180deg, #03c04a, green);
+  color: #006ecc;
+  border: 3px solid #006ecc;
+  padding-top: 6px;
+  padding-bottom: 10px;
+  background-image: url("https://i.pinimg.com/originals/77/25/ef/7725efd4295937baf856decbad4752c0.gif")
+}

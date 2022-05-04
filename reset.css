@@ -1,0 +1,218 @@
+html, body {
+    font-family: sans-serif !important;
+    background-color: #f8f9fa !important;
+    background-image: none !important;
+}
+
+.mw-page-container {
+    background-color: #ffffff !important;
+    color: #202122 !important;
+}
+
+a {
+    color: #0645ad !important;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #202122 !important;
+}
+
+.mw-editsection, .mw-editsection-like {
+    font-family: sans-serif !important;
+}
+
+.mw-sidebar {
+background-image: linear-gradient(to bottom,#ffffff 0%,#f8f9fa 10%,#f8f9fa 90%,#ffffff 100%) !important;
+}
+
+.vector-menu-portal .vector-menu-heading {
+    color: #202122 !important;
+}
+
+i {
+    font-style: italic !important;
+}
+
+.homonymie {
+    background-color: white !important;
+    font-style: normal !important;
+}
+
+.toc, .toccolours {
+    border: 1px solid #a2a9b1 !important;
+    background-color: #f8f9fa !important;
+}
+
+.tocnumber {
+    color: #202122 !important;
+}
+.toctogglelabel {
+    color: #0645ad !important;
+}
+
+div.infobox_v3 {
+    background: #f9f9f9 !important;
+    border: 1px solid #aaa !important;
+}
+
+.vector-menu-tabs .selected {
+    background: white !important;
+}
+
+.vector-menu-tabs li {
+    background-image: linear-gradient(to bottom,rgba(167,215,249,0) 0,#a7d7f9 100%) !important;
+}
+
+hr {
+    background-color: white !important;
+}
+
+.mw-message-box, .messagebox {
+    background-color: #eaecf0 !important;
+    border-color: #a2a9b1 !important;
+}
+
+.mw-message-box, .messagebox, .errorbox, .warningbox, .successbox {
+    color: black !important;
+}
+
+caption {
+    color: black !important;
+    text-align: center;
+    background-color: #B6CCDE !important;
+}
+
+.bandeau-niveau-modere {
+    border-color: #a2a9b1 !important;
+    background-color: #eaecf0 !important;
+}
+
+.infobox_v2 {
+    background: #eaecf0 !important;
+    color: black !important;
+    border: 1px solid #aaa !important;
+    border-spacing: 5px;
+}
+
+.bandeau-niveau-detail, .bandeau-section.bandeau-niveau-information {
+    border-color: #a2a9b1 !important;
+    background-color: #eaecf0 !important;
+}
+
+div.thumbinner {
+    border: 1px solid #aaa !important;
+    background-color: #eaecf0 !important;
+}
+
+.mw-body h1, .mw-body-content h1 {
+    font-size: 1.8em !important;
+    font-family: 'Linux Libertine','Georgia','Times',serif !important;
+}
+
+h1 {
+    color: black !important;
+}
+
+.wikitable {
+    background-color: #eaecf0 !important;
+    color: black !important;
+    border: 1px solid #aaa !important;
+}
+
+.boite-grise {
+    border-color: #a2a9b1 !important;
+    background-color: #eaecf0 !important;
+}
+
+div.navbox-container {
+    border: 1px solid #aaa !important;
+}
+
+table.navbox {
+    background: white !important;
+}
+
+th.navbox-title {
+    background: white !important;
+}
+
+th.navbox-group {
+    background: white !important;
+}
+
+td.navbox-even {
+    background: white !important;
+}
+
+#bandeau-portail {
+    border: 1px solid #aaa !important;
+    background-color: white !important;
+}
+
+.bandeau-niveau-neutre {
+    border-color: #a2a9b1 !important;
+    background: white !important;
+}
+
+.catlinks {
+    border: 1px solid #aaa !important;
+    background-color: white !important;
+}
+
+.bandeau-niveau-ebauche, .bandeau-niveau-information {
+    border-color: #77ccff !important;
+    background-color: #fbfbfb !important;
+}
+
+.uls-lcd {
+    background-color: tranparent !important;
+}
+
+#uls-settings-block {
+    background-color: transparent !important;
+}
+
+#uls-settings-block > button {
+    color: black !important;
+}
+
+.uls-no-found-more {
+    color: black !important;
+}
+.uls-menu .uls-no-results-view .uls-no-found-more {
+    background-color: transparent !important;
+}
+
+tr {
+    background-color: transparent !important;
+    color: color !important;
+}
+
+th {
+    background-color: transparent !important;
+    color: black !important;
+}
+
+td {
+    color: black;
+}
+
+div {
+    background-color: transparent !important;
+    color: black !important;
+}
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet {
+    color: #3366cc !important;
+}
+
+.skin-vector:not(.skin-vector-legacy) .wb-langlinks-link a {
+    color: #0645ad !important;
+}
+
+.mw-body h1, .mw-body-content h1, .mw-body-content h2 {
+    font-family: 'Linux Libertine','Georgia','Times',serif; !important;
+}
+
+menu-dropdown .vector-menu-heading {
+    background-image: linear-gradient(to bottom,rgba(167,215,249,0) 0,#a7d7f9 100%) !important;
+}
